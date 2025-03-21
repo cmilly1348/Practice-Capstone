@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color:bisque;
+    font-family: monospace; 
+    font-size: 24px; 
+    text-align: center; 
+    text-decoration: underline;
+    text-transform: uppercase;
+} 
