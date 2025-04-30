@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+}
+.t1 {
+    text-decoration: underline;
+    text-align: center;
+}
+.t2 {
+    text-decoration: underline;
+    text-align: center;
+}
+.under1 {
+    text-align: center;
+    
+}
+.under2 {
+    text-align: center;
+}
+
+.imgimg {
+    text-align: center;
+    border-radius: 10cqi;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
